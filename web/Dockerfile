@@ -1,4 +1,4 @@
-FROM fuadz/httpd-php:v2
+FROM fuadz/httpd-php:v1
 
 COPY index.php /var/www/html/
 
